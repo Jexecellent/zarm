@@ -53,7 +53,7 @@ config.devServer = {
   contentBase: path.join(__dirname, '../../examples'),
   publicPath: config.output.publicPath,
   host: '0.0.0.0',
-  port: 3000,
+  port: 3030,
   compress: true,
   noInfo: true,
   inline: true,
